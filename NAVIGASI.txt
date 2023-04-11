@@ -1,0 +1,17 @@
+Home
+	- Overview
+About US
+	- Story singkat
+	- Owner
+Outlet
+	- Gambar
+	- Title
+	- Alamat
+Merch
+	- Gambar
+	- Title
+	- Price
+Contact
+	- Instagram
+	- WA Admin
+	- apa lagi...
