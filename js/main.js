@@ -143,7 +143,7 @@ function whatsapp(){
     var phone = document.getElementById("phone").value;
     var message = document.getElementById("message").value;
     
-    var url = "https://wa.me/6289636412924?text="
+    var url = "https://wa.me/628987588850?text="
     +"Hi, APAdmin, perkenalkan nama saya "
     +name+"%0a"
     +"Biasa dipanggil "+nickname+"%0a"
