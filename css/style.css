@@ -506,6 +506,20 @@ Video
     border-radius: 10px;
 }
 
+.menus {
+    margin: auto;
+    display: inline;
+}
+.menus .menu {
+    display: inline;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.menus .menu p{
+    margin: auto;
+}
+
 .feature .feature-item .img {
     border-radius: 30px;
 }
